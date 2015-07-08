@@ -1,3 +1,5 @@
+[![Gitter][gitter-image]][gitter-url]
+
 These are some basic (and advanced) coding challenges
 
 Here's the basic workflow:
@@ -14,9 +16,14 @@ This uses a basic TDD approach so take a look at the test.js file in each direct
 
 ### Contributing
 
+[![Join the chat at https://gitter.im/trexnix/exercises](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/trexnix/exercises?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Pull requests welcome, please follow the basic workflow:
 
 1. Make a folder
 2. Copy a package.json from a sibling folder
 3. Make a test.js file
 4. Optionally provide a README.md
+
+[gitter-image]: https://badges.gitter.im/Join%20Chat.svg
+[gitter-url]: https://gitter.im/kolodny/exercises
